@@ -50,7 +50,7 @@
     "react-text-mask": "^5.4.3",
     "redux": "^4.0.5",
     "redux-thunk": "^2.3.0",
-    "simple-react-lightbox": "^3.2.3-3",
+    "simple-react-lightbox": "^3.6.6",
     "yup": "^0.32.9"
   },
   "jest": {
